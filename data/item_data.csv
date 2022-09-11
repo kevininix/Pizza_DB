@@ -1,0 +1,1001 @@
+item_id,sku,item_name,item_category,item_size,item_price
+1,42002-442,Chocolate - Semi Sweet,Khaki,XL,80
+2,52546-110,"Wine - Red, Mosaic Zweigelt",Crimson,2XL,21
+3,61509-102,Peas - Frozen,Red,2XL,90
+4,61570-024,Buttons,Yellow,S,43
+5,65862-402,Onions - Pearl,Fuscia,3XL,44
+6,48951-1096,Toothpick Frilled,Violet,XS,97
+7,10702-071,Bread - Bistro Sour,Yellow,2XL,94
+8,55154-2073,Kellogs Special K Cereal,Khaki,3XL,100
+9,57627-165,"Juice - Tomato, 10 Oz",Indigo,3XL,71
+10,50269-100,Shopper Bag - S - 4,Yellow,L,52
+11,0185-0103,Dry Ice,Maroon,2XL,58
+12,54868-2844,Longos - Greek Salad,Teal,2XL,44
+13,0781-5225,Pear - Prickly,Yellow,L,75
+14,64471-196,Nantucket - 518ml,Mauv,S,10
+15,0074-3287,"Bread - Roll, Italian",Purple,2XL,85
+16,61941-0042,Pepsi - 600ml,Aquamarine,XS,74
+17,25010-816,"Quail - Eggs, Fresh",Green,XS,95
+18,10578-028,Beer - Tetleys,Goldenrod,S,44
+19,64725-2168,Plasticforkblack,Turquoise,3XL,96
+20,61786-049,Carbonated Water - Blackberry,Blue,XS,90
+21,66129-107,"Stock - Chicken, White",Orange,3XL,73
+22,49967-416,"Star Anise, Whole",Blue,XS,5
+23,52125-634,Bread - Bistro White,Goldenrod,XS,2
+24,37205-155,Water - Tonic,Green,3XL,71
+25,58468-0220,General Purpose Trigger,Blue,2XL,39
+26,49999-280,"Soup - Campbells, Chix Gumbo",Indigo,XS,77
+27,36987-1751,Beef - Tenderloin - Aa,Blue,S,74
+28,61919-126,Extract - Rum,Goldenrod,XL,18
+29,59726-189,Oil - Coconut,Crimson,3XL,21
+30,0699-7031,Cassis,Pink,3XL,24
+31,10096-0146,Squid - Tubes / Tenticles 10/20,Red,3XL,65
+32,59115-129,Tamarind Paste,Orange,L,3
+33,0363-8204,"Nut - Pecan, Pieces",Red,2XL,71
+34,67046-076,Lamb - Rack,Aquamarine,M,30
+35,53808-0672,Cookie - Oatmeal,Orange,M,84
+36,59050-251,"Yogurt - Cherry, 175 Gr",Mauv,3XL,75
+37,36987-2414,Table Cloth 144x90 White,Khaki,M,65
+38,66579-0036,Snails - Large Canned,Mauv,S,81
+39,55111-644,Bagelers,Puce,XL,51
+40,61314-203,Ginger - Ground,Indigo,XS,77
+41,67544-883,Pepper - Jalapeno,Yellow,S,98
+42,49738-454,Wine - Niagara Peninsula Vqa,Violet,XL,31
+43,63402-304,Sage Derby,Green,S,39
+44,54575-453,Table Cloth 81x81 White,Puce,2XL,6
+45,0409-7295,Sponge Cake Mix - Vanilla,Orange,M,2
+46,47202-1143,Tea - Grapefruit Green Tea,Fuscia,XS,59
+47,43063-254,Dragon Fruit,Maroon,2XL,23
+48,68788-9536,"Shrimp - 16/20, Iqf, Shell On",Teal,2XL,51
+49,68210-0007,Chinese Foods - Chicken,Fuscia,L,98
+50,23635-412,Yogurt - Plain,Pink,3XL,73
+51,63629-1320,Tomatoes - Roma,Mauv,3XL,84
+52,0363-0667,Tequila Rose Cream Liquor,Maroon,M,44
+53,0039-0053,Table Cloth 72x144 White,Indigo,L,12
+54,64944-0001,Ham - Proscuitto,Fuscia,XS,54
+55,68001-221,Jolt Cola - Electric Blue,Red,2XL,9
+56,63354-161,Chocolate - Semi Sweet,Goldenrod,XS,66
+57,0283-0293,Veal - Sweetbread,Maroon,2XL,34
+58,49349-619,"Chilli Paste, Hot Sambal Oelek",Red,L,20
+59,16781-404,Scallops - 10/20,Turquoise,M,83
+60,60429-375,Shrimp - 31/40,Orange,L,20
+61,68788-9940,Cheese - Mascarpone,Indigo,XL,89
+62,0517-4620,Cookies - Englishbay Oatmeal,Orange,3XL,84
+63,54868-4817,Bar - Sweet And Salty Chocolate,Blue,S,63
+64,52389-306,"Bread - Roll, Soft White Round",Mauv,M,21
+65,0378-0148,"Bag - Bread, White, Plain",Teal,L,68
+66,43419-502,Mousse - Passion Fruit,Mauv,XS,5
+67,21695-653,"Orange - Canned, Mandarin",Aquamarine,3XL,98
+68,0924-0123,"Water, Tap",Crimson,2XL,27
+69,55513-075,Steam Pan Full Lid,Aquamarine,S,46
+70,68001-231,Juice - Lagoon Mango,Maroon,XL,55
+71,49288-0380,"Turkey - Whole, Fresh",Indigo,XS,94
+72,41250-205,Beer - Sleeman Fine Porter,Fuscia,2XL,54
+73,0603-2406,Lambcasing,Fuscia,XS,50
+74,11822-4803,Lidsoupcont Rp12dn,Orange,XS,40
+75,49288-0364,Wine - Masi Valpolocell,Red,XS,76
+76,52257-1100,"Wine - White, Pelee Island",Turquoise,XS,50
+77,43063-455,Wood Chips - Regular,Turquoise,3XL,59
+78,65278-007,Mustard - Dijon,Turquoise,XL,90
+79,17518-003,Bread - English Muffin,Pink,L,44
+80,53041-650,"Turkey - Breast, Smoked",Mauv,M,5
+81,43269-879,Cornflakes,Crimson,XS,87
+82,53499-8371,Broom And Brush Rack Black,Teal,S,99
+83,64582-0001,Bread - Raisin Walnut Oval,Aquamarine,3XL,36
+84,48951-4084,Bagel - Ched Chs Presliced,Indigo,L,63
+85,36987-3271,Bread - Frozen Basket Variety,Maroon,3XL,98
+86,66336-047,Pizza Pizza Dough,Goldenrod,L,67
+87,24208-790,Longos - Burritos,Pink,2XL,18
+88,0536-3222,"Lamb - Shoulder, Boneless",Puce,M,2
+89,42549-558,Spice - Greek 1 Step,Crimson,2XL,27
+90,53603-1007,Scallops - 20/30,Purple,M,38
+91,41163-076,Wine - Taylors Reserve,Red,2XL,48
+92,53808-0771,"Pasta - Shells, Medium, Dry",Aquamarine,L,33
+93,60232-2585,Beer - Molson Excel,Aquamarine,S,73
+94,49288-0904,Peach - Halves,Green,S,10
+95,59667-0041,Bread - Multigrain,Blue,3XL,55
+96,98132-148,Ice Cream Bar - Oreo Cone,Violet,M,21
+97,0409-1176,Island Oasis - Lemonade,Goldenrod,2XL,74
+98,49349-982,Chips - Potato Jalapeno,Purple,L,18
+99,0268-0716,Mcgillicuddy Vanilla Schnap,Indigo,L,35
+100,36987-2439,Pastry - Banana Muffin - Mini,Goldenrod,2XL,86
+101,99207-010,Ketchup - Tomato,Puce,XS,11
+102,54092-007,Wine - Ej Gallo Sonoma,Orange,XL,27
+103,36987-1688,Tomatoes Tear Drop,Purple,XS,88
+104,15127-968,Wine - Jackson Triggs Okonagan,Teal,XS,15
+105,0573-1191,"Soup - Knorr, Ministrone",Khaki,XS,48
+106,64942-1356,Juice - Apple 284ml,Violet,XL,64
+107,24286-1563,Creme De Menth - White,Orange,3XL,38
+108,59746-335,Flour - Cake,Aquamarine,XL,43
+109,65197-310,Filter - Coffee,Mauv,S,34
+110,0178-0812,Flour - Cake,Aquamarine,L,29
+111,57520-0548,"Trout - Rainbow, Fresh",Red,2XL,35
+112,42361-033,Carbonated Water - White Grape,Maroon,M,10
+113,45802-358,Cake - French Pear Tart,Puce,L,85
+114,49349-638,Octopus,Crimson,M,47
+115,68788-9020,Sauce - Rosee,Indigo,3XL,84
+116,34460-6005,Cup - Paper 10oz 92959,Orange,L,39
+117,70253-226,Island Oasis - Mango Daiquiri,Indigo,M,1
+118,52533-005,Cheese - Camembert,Turquoise,XS,17
+119,54868-5506,Bread - Multigrain Oval,Mauv,XS,72
+120,49288-0807,"Mushroom - Chanterelle, Dry",Orange,L,59
+121,0054-0121,Skirt - 24 Foot,Crimson,3XL,2
+122,0264-3195,Milk - Skim,Maroon,3XL,96
+123,49884-833,Beef - Eye Of Round,Purple,XL,18
+124,68479-150,Pate Pans Yellow,Puce,2XL,51
+125,76237-149,Rice Wine - Aji Mirin,Violet,S,90
+126,11822-0497,Carbonated Water - Wildberry,Blue,M,83
+127,54868-6246,Curry Powder Madras,Puce,XL,47
+128,0407-2223,Veal - Liver,Blue,2XL,19
+129,61077-020,Soup - Campbells,Indigo,S,59
+130,52410-3045,Table Cloth 90x90 Colour,Teal,S,65
+131,50844-291,Sprouts - Onion,Violet,S,55
+132,10742-0001,Chicken - Leg / Back Attach,Khaki,S,64
+133,64720-333,Lemon Balm - Fresh,Fuscia,L,5
+134,45334-356,Syrup - Monin - Passion Fruit,Blue,3XL,99
+135,0615-7709,"Veal - Brisket, Provimi, Bone - In",Violet,2XL,11
+136,16571-501,Chutney Sauce,Purple,XS,52
+137,58986-020,Cookie Dough - Double,Crimson,2XL,60
+138,0187-0402,Raisin - Dark,Mauv,M,93
+139,52125-628,Napkin White,Blue,XS,49
+140,24208-629,Tarragon - Fresh,Goldenrod,M,17
+141,37205-994,Dikon,Green,2XL,16
+142,0527-1742,Mushroom - Crimini,Purple,2XL,43
+143,29860-213,Ham - Procutinni,Puce,XS,78
+144,0574-7114,"Oil - Truffle, Black",Crimson,M,34
+145,0363-1411,Coffee Cup 8oz 5338cd,Crimson,S,51
+146,37012-580,Wine - Redchard Merritt,Aquamarine,L,78
+147,21130-003,Hersey Shakes,Khaki,XL,62
+148,0615-7667,Cheese - Provolone,Indigo,2XL,25
+149,25021-162,Chinese Foods - Pepper Beef,Teal,XL,25
+150,68788-0575,Fruit Mix - Light,Orange,L,45
+151,0078-0342,Nori Sea Weed,Goldenrod,XL,90
+152,68462-556,Chocolate - Milk,Aquamarine,3XL,4
+153,65044-2623,Cookie Dough - Double,Mauv,XL,26
+154,36987-1699,Salt - Table,Crimson,L,9
+155,25021-202,Muffin Hinge 117n,Green,2XL,48
+156,14783-325,Oneshot Automatic Soap System,Blue,M,51
+157,48951-1190,Apple - Fuji,Mauv,3XL,32
+158,49348-845,Quinoa,Blue,2XL,18
+159,64376-612,Cookies - Englishbay Wht,Crimson,L,26
+160,11822-0018,"Beef - Tenderlion, Center Cut",Teal,S,99
+161,21695-800,"Pasta - Spaghetti, Dry",Blue,2XL,35
+162,54868-4233,Melon - Watermelon Yellow,Crimson,S,48
+163,69154-020,Nougat - Paste / Cream,Violet,3XL,10
+164,0406-8893,Nantucket - Kiwi Berry Cktl.,Puce,XL,3
+165,51060-047,"Soup - Campbells, Spinach Crm",Crimson,M,46
+166,10819-5811,"Pasta - Fusili, Dry",Orange,2XL,31
+167,55154-5880,Apricots - Dried,Indigo,L,32
+168,42254-012,Cup - Paper 10oz 92959,Fuscia,S,38
+169,55316-822,Magnotta - Bel Paese White,Khaki,2XL,54
+170,68599-6113,Appetizer - Southwestern,Violet,L,75
+171,42876-001,Flour - Chickpea,Khaki,XS,9
+172,52343-063,"7up Diet, 355 Ml",Aquamarine,3XL,66
+173,49726-002,Hot Chocolate - Individual,Turquoise,L,62
+174,25021-673,"Squash - Pattypan, Yellow",Aquamarine,XL,34
+175,49348-691,"Beets - Candy Cane, Organic",Yellow,3XL,93
+176,67938-1393,Bar - Granola Trail Mix Fruit Nut,Khaki,L,45
+177,11819-348,Watercress,Teal,2XL,23
+178,60916-002,Longos - Chicken Caeser Salad,Green,XS,100
+179,0406-5755,Coffee Decaf Colombian,Blue,L,46
+180,52125-354,Blackberries,Goldenrod,M,98
+181,54868-2685,"Lamb - Pieces, Diced",Teal,XS,24
+182,10237-702,Berry Brulee,Indigo,M,62
+183,16714-380,Soup - Base Broth Beef,Turquoise,2XL,64
+184,0615-0362,Aspic - Amber,Red,L,75
+185,65162-529,Sprouts - Corn,Green,S,90
+186,68084-348,"Chicken - Diced, Cooked",Khaki,XS,95
+187,0023-0316,Bread Base - Italian,Green,2XL,95
+188,43742-0246,General Purpose Trigger,Maroon,XL,31
+189,59779-267,Fond - Neutral,Aquamarine,3XL,63
+190,52584-321,Prunes - Pitted,Crimson,2XL,75
+191,49288-0423,Tomatillo,Teal,2XL,50
+192,0268-1077,"Juice - Tomato, 48 Oz",Blue,3XL,20
+193,55316-742,Wine - Balbach Riverside,Aquamarine,S,27
+194,0264-2514,Chicken Breast Halal,Orange,S,43
+195,30142-001,Eggplant Oriental,Khaki,2XL,18
+196,43419-302,"Pasta - Lasagna, Dry",Turquoise,2XL,22
+197,64117-107,"Veal - Insides, Grains",Indigo,S,38
+198,66472-024,Bagel - Whole White Sesame,Teal,2XL,46
+199,66184-532,Dried Figs,Goldenrod,S,99
+200,53808-0335,Pasta - Agnolotti - Butternut,Turquoise,XL,47
+201,37205-516,"Pork - Bacon,back Peameal",Purple,3XL,37
+202,0268-1519,Oil - Sunflower,Pink,2XL,3
+203,58668-6140,Vinegar - Red Wine,Green,3XL,82
+204,0135-0484,Anchovy Fillets,Orange,M,65
+205,68180-514,Dill Weed - Fresh,Yellow,3XL,49
+206,50436-5996,Wine - Port Late Bottled Vintage,Maroon,XL,11
+207,53499-0172,Mince Meat - Filling,Crimson,S,62
+208,59854-301,Roe - White Fish,Red,M,14
+209,10812-384,Longos - Chicken Cordon Bleu,Puce,S,64
+210,0143-1769,Juice - V8 Splash,Turquoise,XL,83
+211,49035-620,Bread - French Baquette,Goldenrod,XL,94
+212,49817-0074,Pastry - Key Limepoppy Seed Tea,Fuscia,M,97
+213,0074-2108,Daves Island Stinger,Puce,L,90
+214,50436-4313,Oven Mitt - 13 Inch,Aquamarine,L,78
+215,76439-329,Lettuce - Green Leaf,Turquoise,L,37
+216,48951-3041,"Cherries - Bing, Canned",Teal,M,74
+217,76452-003,"Oil - Food, Lacquer Spray",Red,M,94
+218,36987-1657,"Crab - Dungeness, Whole",Aquamarine,XL,76
+219,43063-308,"Vermouth - Sweet, Cinzano",Maroon,L,85
+220,67038-104,Truffle Cups - Red,Goldenrod,3XL,7
+221,68400-708,Tart - Lemon,Mauv,L,3
+222,54973-2909,"Sauce - Soya, Dark",Crimson,3XL,38
+223,60760-224,Sauce Bbq Smokey,Teal,S,26
+224,0088-1095,Extract - Almond,Red,2XL,22
+225,52083-231,"Coffee - Colombian, Portioned",Fuscia,S,31
+226,21749-527,Soho Lychee Liqueur,Orange,XS,44
+227,52125-454,Garam Marsala,Green,L,44
+228,37205-194,"Sauce - Soya, Dark",Violet,3XL,53
+229,37205-030,Island Oasis - Mango Daiquiri,Violet,XS,7
+230,0591-3612,Cheese - Parmigiano Reggiano,Aquamarine,3XL,58
+231,68093-7207,Steampan Lid,Crimson,2XL,52
+232,0517-4201,"Wine - Red, Mouton Cadet",Pink,L,66
+233,36987-2925,Bread - Olive,Yellow,3XL,22
+234,28105-149,Chick Peas - Dried,Yellow,XL,65
+235,68387-140,Soup - Campbells Mac N Cheese,Purple,M,97
+236,68094-528,Sambuca Cream,Red,L,69
+237,0062-5350,"Wine - White, French Cross",Red,2XL,24
+238,66949-878,"Turkey - Breast, Smoked",Puce,XL,82
+239,63833-386,Beer - Pilsner Urquell,Goldenrod,3XL,93
+240,68428-725,Chinese Lemon Pork,Indigo,XL,16
+241,68084-360,Chocolate Liqueur - Godet White,Blue,XL,82
+242,43063-112,Jam - Apricot,Puce,2XL,43
+243,0268-1187,Chickensplit Half,Blue,XS,92
+244,0363-0950,Food Colouring - Red,Khaki,L,20
+245,23916-1234,Bandage - Finger Cots,Red,XL,67
+246,55154-1916,Bread - Flat Bread,Maroon,S,42
+247,49349-000,Lamb - Rack,Green,XL,49
+248,62011-0091,Langers - Ruby Red Grapfruit,Pink,2XL,51
+249,51079-386,Salmon - Sockeye Raw,Green,M,20
+250,54643-5646,Mushroom - Lg - Cello,Yellow,3XL,5
+251,58607-111,Coffee - Irish Cream,Mauv,XL,87
+252,60913-031,Sage - Fresh,Mauv,S,55
+253,43742-0211,"Veal - Chops, Split, Frenched",Fuscia,XL,46
+254,63459-225,Longos - Assorted Sandwich,Yellow,M,93
+255,63629-3389,"Wine - Red, Cooking",Khaki,XS,86
+256,57520-1002,"Soup - Campbells, Spinach Crm",Goldenrod,M,93
+257,37000-829,Bacon Strip Precooked,Yellow,M,38
+258,0378-3003,Garbag Bags - Black,Purple,XL,93
+259,43063-326,Potatoes - Mini White 3 Oz,Mauv,3XL,94
+260,54868-4416,Ecolab - Hobart Washarm End Cap,Mauv,L,14
+261,0944-2843,Bandage - Finger Cots,Crimson,L,77
+262,41163-479,Rappini - Andy Boy,Crimson,M,36
+263,52747-901,Crab Brie In Phyllo,Green,3XL,63
+264,16590-051,Oil - Pumpkinseed,Maroon,S,80
+265,0264-7648,Wine - Trimbach Pinot Blanc,Khaki,2XL,68
+266,16729-119,Jicama,Goldenrod,M,7
+267,53489-647,Cheese - Perron Cheddar,Orange,XL,13
+268,48951-8159,Wine - Marlbourough Sauv Blanc,Green,XS,47
+269,69013-004,Lamb - Ground,Blue,L,65
+270,42507-837,"Bread - Dark Rye, Loaf",Green,XL,24
+271,67457-266,Pomegranates,Puce,S,2
+272,33261-840,"Crab - Claws, 26 - 30",Goldenrod,L,39
+273,49035-091,Parsley - Dried,Aquamarine,M,23
+274,36987-1864,"Pesto - Primerba, Paste",Pink,XS,20
+275,0904-5963,Muffin Mix - Morning Glory,Crimson,XL,85
+276,61957-2113,Calypso - Pineapple Passion,Purple,2XL,96
+277,17819-1066,"Beans - Navy, Dry",Crimson,XS,92
+278,33261-144,"Asparagus - Green, Fresh",Purple,2XL,21
+279,54868-2497,Ecolab - Ster Bac,Purple,3XL,50
+280,67544-012,Cup - 8oz Coffee Perforated,Maroon,XL,85
+281,36987-3203,Garlic,Indigo,XL,19
+282,68001-159,"Bread - Sticks, Thin, Plain",Purple,XS,25
+283,59970-043,Long Island Ice Tea,Puce,2XL,9
+284,54569-1104,Cake Slab,Yellow,M,93
+285,65923-181,"Veal - Insides, Grains",Teal,2XL,7
+286,57520-0246,Bagel - Everything,Orange,2XL,58
+287,55111-717,"Wine - Sherry Dry Sack, William",Khaki,M,19
+288,34645-5008,Oysters - Smoked,Pink,2XL,30
+289,59970-174,Cup - Translucent 7 Oz Clear,Crimson,XL,51
+290,11086-022,Cheese - Cheddar With Claret,Teal,2XL,40
+291,49643-443,"Chicken - Breast, 5 - 7 Oz",Puce,S,4
+292,40057-6001,Chocolate - Unsweetened,Goldenrod,S,70
+293,67046-274,Capers - Ox Eye Daisy,Goldenrod,XS,68
+294,62670-4817,"Wine - Cahors Ac 2000, Clos",Green,3XL,34
+295,68084-652,Coffee - Hazelnut Cream,Teal,XS,41
+296,64380-725,"Lamb - Whole Head Off,nz",Orange,XS,37
+297,64679-714,"Yogurt - Strawberry, 175 Gr",Green,S,25
+298,0527-1324,Squash - Acorn,Mauv,XL,49
+299,55714-4427,"Pasta - Fettuccine, Egg, Fresh",Pink,L,45
+300,0641-6033,Coffee - Espresso,Blue,3XL,78
+301,62565-901,Sambuca - Opal Nera,Mauv,M,62
+302,49288-0720,Asparagus - Mexican,Turquoise,3XL,54
+303,55154-6976,Petite Baguette,Goldenrod,S,96
+304,63323-201,Steam Pan - Half Size Deep,Mauv,S,96
+305,42046-002,Lettuce - Lambs Mash,Khaki,XS,86
+306,52380-4193,Turkey Leg With Drum And Thigh,Puce,XL,14
+307,14783-028,Sage - Ground,Blue,M,99
+308,76345-8179,Jolt Cola,Blue,S,90
+309,49288-0660,"Rum - Cream, Amarula",Yellow,L,55
+310,21130-400,Oranges,Yellow,XS,60
+311,49993-860,"Chicken - Wings, Tip Off",Teal,3XL,83
+312,25373-001,Wine - Magnotta - Bel Paese White,Blue,L,97
+313,68016-194,Chef Hat 25cm,Puce,XS,18
+314,67457-466,Pop Shoppe Cream Soda,Teal,L,30
+315,63739-931,"Liqueur Banana, Ramazzotti",Green,2XL,13
+316,0078-0406,Shichimi Togarashi Peppeers,Teal,L,15
+317,76439-302,"Tart Shells - Savory, 4",Khaki,M,13
+318,54868-6328,Dragon Fruit,Puce,S,59
+319,49349-895,Foil Wrap,Orange,XL,39
+320,54295-310,Lighter - Bbq,Indigo,3XL,82
+321,52959-386,Ocean Spray - Ruby Red,Orange,XL,34
+322,49288-0924,Cookies - Fortune,Aquamarine,XL,45
+323,36800-059,Soup - Verve - Chipotle Chicken,Blue,XL,82
+324,44523-338,Beer - Heinekin,Mauv,XL,80
+325,16714-632,Kohlrabi,Green,XS,67
+326,57237-013,Soup Campbells,Khaki,M,94
+327,54868-6379,Energy Drink - Franks Pineapple,Pink,L,73
+328,68428-159,Cheese - Feta,Fuscia,XS,100
+329,64679-743,Anchovy Fillets,Teal,M,22
+330,18860-104,Sage - Ground,Crimson,L,88
+331,50950-001,Ice Cream - Life Savers,Blue,M,8
+332,63824-712,Sage - Ground,Pink,3XL,84
+333,55154-5469,Wine - Barolo Fontanafredda,Crimson,S,86
+334,49349-689,Calypso - Strawberry Lemonade,Fuscia,XS,18
+335,55154-3334,Bouq All Italian - Primerba,Violet,XL,39
+336,0007-4642,Carbonated Water - Cherry,Indigo,L,87
+337,61722-087,"Mushroom - Enoki, Dry",Yellow,L,36
+338,36987-1368,Wine - Trimbach Pinot Blanc,Maroon,M,99
+339,76237-109,Muffin - Banana Nut Individual,Violet,M,75
+340,52125-747,Cut Wakame - Hanawakaba,Maroon,XS,37
+341,52584-783,The Pop Shoppe - Root Beer,Blue,M,55
+342,33261-076,Ice Cream Bar - Oreo Cone,Maroon,XS,13
+343,64117-286,Beef - Bresaola,Red,S,62
+344,68791-103,"Syrup - Golden, Lyles",Purple,3XL,1
+345,67253-101,Nantucket - 518ml,Indigo,XL,23
+346,52125-298,Pheasants - Whole,Yellow,2XL,67
+347,0781-3095,Asparagus - Frozen,Crimson,L,35
+348,42507-544,Cut Wakame - Hanawakaba,Puce,M,55
+349,52546-100,Sobe - Liz Blizz,Purple,XS,98
+350,65841-058,"Nut - Walnut, Pieces",Yellow,2XL,9
+351,52174-002,Wine - Fino Tio Pepe Gonzalez,Fuscia,3XL,77
+352,33992-2100,Cheese - Roquefort Pappillon,Teal,M,29
+353,52959-336,Spice - Greek 1 Step,Turquoise,2XL,39
+354,49288-0567,Food Colouring - Pink,Teal,3XL,72
+355,43269-752,Ecolab - Lime - A - Way 4/4 L,Teal,XL,78
+356,51672-1284,Bread - Dark Rye,Khaki,XL,15
+357,55319-268,"Marjoram - Dried, Rubbed",Aquamarine,XS,61
+358,53808-0723,Beer - Corona,Indigo,XS,67
+359,42507-337,Lychee - Canned,Mauv,XL,38
+360,53808-0938,Miso - Soy Bean Paste,Blue,S,80
+361,52125-577,Sauce - Hollandaise,Blue,L,73
+362,0615-7546,"Pork - Loin, Center Cut",Violet,L,51
+363,0006-4981,Soap - Hand Soap,Turquoise,XL,92
+364,68788-9182,Crab - Imitation Flakes,Maroon,3XL,32
+365,63739-451,"Bread - Roll, Soft White Round",Crimson,XS,92
+366,61543-7501,"Syrup - Golden, Lyles",Turquoise,XL,99
+367,56062-462,Lettuce - Curly Endive,Khaki,L,68
+368,0799-0001,Compound - Mocha,Puce,XL,19
+369,54312-325,"Wine - White, Concha Y Toro",Violet,S,39
+370,49288-0438,Potatoes - Parissienne,Pink,M,44
+371,21695-973,"Beef - Kindney, Whole",Purple,S,73
+372,76439-209,"Coke - Diet, 355 Ml",Khaki,2XL,10
+373,50991-582,Wine - Riesling Dr. Pauly,Yellow,L,58
+374,57520-1041,Steampan - Foil,Fuscia,L,19
+375,55648-185,"Pasta - Penne, Rigate, Dry",Purple,L,86
+376,53329-069,Table Cloth 62x114 White,Goldenrod,XS,66
+377,0054-0056,"Wine - White, Mosel Gold",Blue,L,30
+378,36987-2124,Chocolate - Feathers,Yellow,M,17
+379,59779-205,Alize Gold Passion,Crimson,2XL,81
+380,49781-055,"Coke - Classic, 355 Ml",Goldenrod,3XL,60
+381,10819-5811,Muffin - Mix - Creme Brule 15l,Turquoise,XL,68
+382,0781-5377,"Trout - Rainbow, Fresh",Khaki,XS,52
+383,36987-1028,Peppercorns - Green,Violet,S,80
+384,55154-5412,Wine - Masi Valpolocell,Yellow,3XL,79
+385,0363-0903,Chocolate Bar - Oh Henry,Indigo,3XL,11
+386,51801-012,Wine - Piper Heidsieck Brut,Crimson,L,81
+387,68047-254,Island Oasis - Magarita Mix,Fuscia,3XL,87
+388,49643-406,Soup - Campbells Bean Medley,Indigo,XL,3
+389,49348-999,Absolut Citron,Green,XS,59
+390,10157-1010,Tomato Paste,Teal,3XL,17
+391,65044-0547,Pepper - Chilli Seeds Mild,Violet,L,59
+392,63629-1320,Mushroom - Portebello,Goldenrod,3XL,14
+393,53808-0408,Graham Cracker Mix,Violet,XL,82
+394,0904-5894,"Mushroom - Enoki, Dry",Green,2XL,64
+395,49781-096,Wine - Kwv Chenin Blanc South,Purple,M,25
+396,48951-1073,Orange - Blood,Orange,L,71
+397,41163-560,Grapes - Green,Blue,2XL,88
+398,51191-3016,Raisin - Dark,Yellow,L,100
+399,50436-4068,Triple Sec - Mcguinness,Indigo,S,54
+400,68084-051,"Thyme - Lemon, Fresh",Mauv,XS,35
+401,35356-717,Sausage - Breakfast,Indigo,2XL,87
+402,36987-1592,Chinese Foods - Chicken Wing,Fuscia,L,11
+403,60512-2004,Maple Syrup,Puce,L,65
+404,50810-2000,"Crab - Dungeness, Whole, live",Fuscia,S,12
+405,0395-1670,Squash - Sunburst,Pink,XL,99
+406,66129-110,Towel Dispenser,Indigo,L,92
+407,54868-3334,Beer - Blue Light,Goldenrod,M,97
+408,0378-2122,Cookies - Englishbay Oatmeal,Blue,3XL,70
+409,0067-0003,Coffee - Frthy Coffee Crisp,Maroon,3XL,86
+410,10096-0195,Oats Large Flake,Purple,XS,90
+411,0904-6368,Dc - Sakura Fu,Aquamarine,2XL,33
+412,36987-3051,Sprouts Dikon,Khaki,2XL,69
+413,64679-670,Meldea Green Tea Liquor,Mauv,M,98
+414,66915-414,Nantucket Apple Juice,Red,2XL,82
+415,36987-2621,Island Oasis - Cappucino Mix,Yellow,3XL,86
+416,49035-957,Laundry - Bag Cloth,Teal,L,73
+417,13668-115,Yogurt - Assorted Pack,Orange,XS,40
+418,12634-987,Lamb Tenderloin Nz Fr,Goldenrod,S,27
+419,54868-5572,Soup Campbells Beef With Veg,Maroon,L,62
+420,36987-3377,Muffin - Carrot Individual Wrap,Red,XS,39
+421,49288-0843,"Roe - Lump Fish, Black",Puce,L,51
+422,57520-0441,Magnotta Bel Paese Red,Goldenrod,S,40
+423,36987-1365,Truffle Shells - Semi - Sweet,Khaki,S,40
+424,64942-1249,Macaroons - Two Bite Choc,Yellow,XL,64
+425,58407-091,Spaghetti Squash,Yellow,XL,4
+426,60512-6176,Teriyaki Sauce,Fuscia,3XL,36
+427,0615-7631,Temperature Recording Station,Turquoise,M,70
+428,0378-9123,Juice - Lagoon Mango,Purple,XS,23
+429,0087-6671,Baking Soda,Yellow,3XL,51
+430,14550-517,Ham - Proscuitto,Crimson,XS,71
+431,42211-201,Tea - Honey Green Tea,Purple,2XL,85
+432,0904-0202,Soup Campbells Mexicali Tortilla,Indigo,S,40
+433,42291-627,Melon - Honey Dew,Maroon,3XL,68
+434,59734-271,Orange Roughy 4/6 Oz,Indigo,XS,90
+435,10671-100,"Tendrils - Baby Pea, Organic",Pink,XS,32
+436,49999-914,Water - Perrier,Crimson,XS,96
+437,43269-806,Puree - Kiwi,Purple,3XL,78
+438,51220-1001,Potatoes - Peeled,Red,S,79
+439,33342-034,Bread - English Muffin,Indigo,XS,23
+440,10812-239,Chips Potato Salt Vinegar 43g,Aquamarine,XL,21
+441,0555-0974,Triple Sec - Mcguinness,Indigo,2XL,89
+442,76323-004,Turnip - Mini,Violet,XS,85
+443,59779-236,Sea Urchin,Teal,M,23
+444,68169-0012,Bandage - Finger Cots,Goldenrod,M,84
+445,0378-6320,Hold Up Tool Storage Rack,Indigo,M,67
+446,36987-3388,"Salsify, Organic",Khaki,L,95
+447,68016-279,Soup - Campbells - Tomato,Khaki,L,12
+448,51991-354,Cheese - Comte,Puce,XL,78
+449,68788-9795,Filling - Mince Meat,Green,3XL,23
+450,64942-0731,Neckerchief Blck,Aquamarine,M,51
+451,0781-3033,Appetizer - Crab And Brie,Aquamarine,XL,4
+452,62175-272,Tea - English Breakfast,Turquoise,XL,34
+453,42192-121,Pail For Lid 1537,Aquamarine,L,72
+454,54868-1971,"Butter - Salted, Micro",Aquamarine,3XL,43
+455,41250-256,Rice - Wild,Fuscia,3XL,76
+456,62756-517,Juice - Lime,Blue,L,45
+457,62713-943,Egg - Salad Premix,Crimson,L,13
+458,10812-324,Table Cloth 81x81 White,Orange,L,27
+459,0904-6108,Sobe - Lizard Fuel,Green,3XL,41
+460,61314-238,Kirsch - Schloss,Green,3XL,78
+461,64233-515,Mix - Cocktail Strawberry Daiquiri,Red,S,47
+462,36987-2769,"Nut - Hazelnut, Whole",Teal,XL,71
+463,35356-944,Salmon - Fillets,Purple,3XL,4
+464,55154-1680,Sugar - Icing,Turquoise,2XL,35
+465,50845-0042,Bandage - Finger Cots,Goldenrod,M,8
+466,10356-370,Thyme - Fresh,Turquoise,L,32
+467,68788-9666,Duck - Whole,Goldenrod,XL,36
+468,10348-002,Cake - Bande Of Fruit,Red,XS,79
+469,67296-0537,Wine - Stoneliegh Sauvignon,Khaki,S,93
+470,13734-139,Wonton Wrappers,Orange,XS,49
+471,64092-113,Sage - Rubbed,Mauv,2XL,22
+472,0409-7879,Remy Red Berry Infusion,Turquoise,L,72
+473,50563-177,Dome Lid Clear P92008h,Khaki,S,4
+474,42291-371,"Tart Shells - Savory, 4",Fuscia,M,59
+475,61703-342,Sprouts - China Rose,Green,S,41
+476,43419-016,Skewers - Bamboo,Pink,M,95
+477,52343-030,Wakami Seaweed,Red,XL,69
+478,0054-0435,"Oil - Truffle, Black",Pink,XL,56
+479,75930-001,"Crab - Dungeness, Whole, live",Pink,M,43
+480,37000-859,Hersey Shakes,Orange,S,55
+481,54569-1231,Dr. Pepper - 355ml,Yellow,XL,51
+482,49288-0095,"Chilli Paste, Sambal Oelek",Puce,M,46
+483,41520-456,Pie Filling - Cherry,Fuscia,S,4
+484,51830-022,"Lamb - Whole, Frozen",Khaki,M,62
+485,68472-160,"Sparkling Wine - Rose, Freixenet",Blue,XL,52
+486,55316-459,"Soup - Campbells, Butternut",Red,XL,31
+487,17630-2023,Broom And Broom Rack White,Red,2XL,40
+488,61919-457,Pork - Sausage Casing,Red,S,55
+489,75870-006,Rambutan,Aquamarine,2XL,39
+490,55312-458,Cauliflower,Aquamarine,XL,42
+491,57344-156,Greens Mustard,Teal,S,44
+492,50436-1334,Lid Tray - 16in Dome,Yellow,M,93
+493,52584-110,Syrup - Monin - Granny Smith,Violet,XS,74
+494,33261-061,Cherries - Fresh,Blue,M,20
+495,0574-0805,Passion Fruit,Turquoise,XS,11
+496,10424-164,Orange - Blood,Red,XL,4
+497,61727-340,Spice - Onion Powder Granulated,Pink,2XL,95
+498,49349-438,Eggwhite Frozen,Blue,M,33
+499,43063-362,Tray - 16in Rnd Blk,Pink,3XL,74
+500,10544-096,"Coconut - Creamed, Pure",Puce,2XL,70
+501,49349-192,Steamers White,Crimson,XL,62
+502,55648-274,Sauce - Ranch Dressing,Mauv,XL,98
+503,54868-4525,Wine - Magnotta - Cab Sauv,Turquoise,XS,15
+504,65044-0719,"Clams - Littleneck, Whole",Crimson,XL,37
+505,0206-2416,Bread - Bistro Sour,Puce,S,67
+506,68703-110,Squid - U - 10 Thailand,Teal,M,53
+507,0924-5701,"Wine - White, Cooking",Orange,XL,84
+508,66915-604,Water - Perrier,Puce,S,38
+509,21695-852,Wine - Chenin Blanc K.w.v.,Purple,XS,10
+510,58232-9201,Bay Leaf Ground,Teal,S,94
+511,63868-310,Bacardi Limon,Violet,3XL,4
+512,0004-0822,Pop Shoppe Cream Soda,Fuscia,2XL,43
+513,11716-1192,Table Cloth 144x90 White,Maroon,S,46
+514,76340-1101,Wine - German Riesling,Maroon,M,13
+515,63029-902,Cheese - Gouda Smoked,Crimson,M,26
+516,16590-581,Ketchup - Tomato,Puce,XL,43
+517,53329-019,"Oregano - Dry, Rubbed",Indigo,M,6
+518,55154-2883,Pie Pecan,Khaki,L,86
+519,57955-2251,Jolt Cola,Green,XL,82
+520,67143-2102,"Shrimp - Baby, Warm Water",Khaki,XS,41
+521,68428-052,Jello - Assorted,Puce,XS,83
+522,68788-9223,Pastry - Key Limepoppy Seed Tea,Puce,XL,24
+523,55154-3727,Beef - Tenderloin - Aa,Violet,XS,65
+524,50436-5506,Anisette - Mcguiness,Mauv,S,49
+525,0409-0181,Wheat - Soft Kernal Of Wheat,Yellow,L,8
+526,54458-930,"Lobster - Baby, Boiled",Puce,2XL,53
+527,41163-872,Truffle Cups - Brown,Green,M,85
+528,37205-706,Wine - Niagara Peninsula Vqa,Puce,M,86
+529,69106-160,"Pepper - Black, Ground",Aquamarine,3XL,96
+530,55312-006,Pork - Backs - Boneless,Pink,XL,3
+531,41250-199,"Pasta - Bauletti, Chicken White",Khaki,2XL,50
+532,61442-171,Lid Coffee Cup 8oz Blk,Khaki,S,50
+533,0472-3901,Maple Syrup,Blue,XS,91
+534,65862-144,Vinegar - Champagne,Mauv,XL,74
+535,13537-492,Yogurt - French Vanilla,Maroon,XS,78
+536,67046-590,"Lettuce - Romaine, Heart",Teal,XS,17
+537,64525-5382,Bread - Corn Muffaleta Onion,Mauv,2XL,57
+538,61919-528,"Pork - Back, Short Cut, Boneless",Blue,3XL,40
+539,54575-949,Watercress,Goldenrod,S,27
+540,48951-8124,Sour Cream,Teal,2XL,72
+541,65044-1339,Coffee - 10oz Cup 92961,Maroon,XL,52
+542,0009-0057,Bread - English Muffin,Purple,2XL,81
+543,10812-286,Eggplant Italian,Fuscia,M,39
+544,49715-012,Lady Fingers,Mauv,S,33
+545,53208-494,"Pasta - Orzo, Dry",Yellow,M,99
+546,53808-0338,Nescafe - Frothy French Vanilla,Orange,2XL,99
+547,68151-2872,Steampan - Half Size Shallow,Blue,XL,85
+548,48951-6005,"Turkey - Breast, Double",Pink,XS,28
+549,57520-0542,"Stock - Veal, Brown",Puce,3XL,72
+550,0574-2020,Beef Flat Iron Steak,Teal,2XL,67
+551,51285-594,Lettuce - Iceberg,Aquamarine,M,33
+552,54868-5336,Water - Spring Water 500ml,Turquoise,S,15
+553,36987-2969,Sobe - Green Tea,Pink,S,64
+554,59401-002,"Pork - Ham, Virginia",Teal,M,100
+555,51138-066,Chicken - Soup Base,Turquoise,L,92
+556,0942-9505,Cheese - Montery Jack,Mauv,M,54
+557,54868-4250,"Thyme - Lemon, Fresh",Goldenrod,3XL,8
+558,37808-424,Napkin Colour,Green,2XL,96
+559,63304-240,"Mushroom - Enoki, Dry",Blue,XS,12
+560,55910-355,Ecolab - Hobart Washarm End Cap,Teal,3XL,10
+561,42507-217,Noodles - Steamed Chow Mein,Purple,L,64
+562,54569-5305,Pate Pans Yellow,Purple,L,28
+563,55154-0748,"Lobster - Tail, 3 - 4 Oz",Turquoise,L,21
+564,68752-012,Sauce - Cranberry,Crimson,2XL,58
+565,49643-376,Danishes - Mini Cheese,Khaki,L,70
+566,0069-2599,Versatainer Nc - 9388,Teal,XL,8
+567,0228-2673,Puree - Kiwi,Mauv,M,15
+568,52959-518,Remy Red Berry Infusion,Red,XL,92
+569,0406-8094,Pears - Bosc,Teal,L,54
+570,0603-3339,The Pop Shoppe - Cream Soda,Yellow,3XL,62
+571,0713-0102,"Artichoke - Hearts, Canned",Yellow,L,70
+572,0597-0146,Pepperoni Slices,Pink,3XL,12
+573,30142-908,Apple - Fuji,Purple,L,22
+574,68094-533,Cheese - Oka,Indigo,L,54
+575,0065-0643,Salmon Steak - Cohoe 8 Oz,Orange,XS,70
+576,33342-028,Wiberg Super Cure,Khaki,XS,97
+577,43598-321,Cherries - Fresh,Mauv,XL,74
+578,49999-136,Sauce - Cranberry,Puce,XL,63
+579,36987-2768,Pastry - Cheese Baked Scones,Goldenrod,M,85
+580,54162-269,"Juice - Tomato, 10 Oz",Purple,2XL,40
+581,50181-0013,Wine - Sawmill Creek Autumn,Green,2XL,28
+582,44087-2010,Veal - Kidney,Turquoise,XS,76
+583,49288-0418,Ezy Change Mophandle,Crimson,L,93
+584,41520-437,Cake - French Pear Tart,Pink,S,98
+585,62011-0029,Syrup - Pancake,Blue,2XL,73
+586,43526-105,Remy Red Berry Infusion,Turquoise,L,97
+587,11822-0617,"Crush - Orange, 355ml",Orange,M,5
+588,55910-393,"Pork - Butt, Boneless",Puce,3XL,3
+589,0113-0851,"Beans - Kidney, Canned",Violet,XL,44
+590,47335-669,Curry Paste - Green Masala,Red,XL,55
+591,50114-6085,Raspberries - Fresh,Purple,L,60
+592,26050-101,Steampan - Lid For Half Size,Aquamarine,2XL,78
+593,10812-603,Onions - White,Blue,2XL,31
+594,50580-536,Scampi Tail,Turquoise,XL,21
+595,16590-935,Peach - Fresh,Fuscia,M,43
+596,49742-1001,Beer - Guiness,Teal,2XL,25
+597,55154-4024,Arctic Char - Fillets,Puce,2XL,61
+598,60344-6001,Wine - Magnotta - Bel Paese White,Fuscia,2XL,8
+599,55154-4614,V8 - Vegetable Cocktail,Goldenrod,S,40
+600,10191-1845,"Chilli Paste, Sambal Oelek",Crimson,M,55
+601,0245-0211,Plate Foam Laminated 9in Blk,Yellow,3XL,56
+602,49349-283,Bandage - Flexible Neon,Mauv,S,100
+603,10267-0835,Wine - Cava Aria Estate Brut,Teal,XS,86
+604,46708-019,Muffin Chocolate Individual Wrap,Purple,2XL,96
+605,50813-0003,Bread - Petit Baguette,Crimson,XS,19
+606,46123-009,Praline Paste,Orange,XL,57
+607,76174-100,Sauce Tomato Pouch,Purple,3XL,44
+608,35356-810,Veal - Liver,Maroon,L,96
+609,67345-0783,Bar Special K,Fuscia,XS,35
+610,0168-0277,"Coffee - Beans, Whole",Fuscia,S,17
+611,0268-6677,Pepper - Red Thai,Blue,XL,75
+612,57844-522,Rice - Brown,Goldenrod,XS,78
+613,16590-246,Potatoes - Parissienne,Goldenrod,S,67
+614,41163-527,"Beef - Tongue, Cooked",Mauv,XL,64
+615,54868-2349,Bread - Rosemary Focaccia,Yellow,3XL,57
+616,43853-0001,Pastry - Choclate Baked,Fuscia,M,14
+617,37012-227,Ocean Spray - Kiwi Strawberry,Turquoise,2XL,67
+618,17089-046,Sage - Fresh,Maroon,2XL,42
+619,66213-543,"Bread - Roll, Calabrese",Yellow,L,74
+620,55118-480,Muffin - Mix - Creme Brule 15l,Goldenrod,M,89
+621,52686-251,Beef - Ox Tongue,Violet,3XL,85
+622,57664-851,Pasta - Fusili Tri - Coloured,Blue,S,29
+623,27437-143,"Bread - Roll, Italian",Fuscia,S,94
+624,98132-189,"Yogurt - Cherry, 175 Gr",Aquamarine,3XL,63
+625,49288-0579,"Sauce - Apple, Unsweetened",Puce,S,75
+626,0378-6610,Butter Balls Salted,Pink,XL,43
+627,43063-280,Bandage - Fexible 1x3,Blue,S,59
+628,43269-879,Cinnamon - Stick,Red,XS,21
+629,0069-2599,Kiwano,Aquamarine,S,45
+630,49349-283,Bols Melon Liqueur,Violet,L,7
+631,65321-022,Garam Masala Powder,Indigo,XL,82
+632,63739-449,Cookie Double Choco,Turquoise,S,32
+633,13537-218,Alize Sunset,Blue,2XL,96
+634,61957-0008,"Stock - Beef, White",Maroon,XS,69
+635,10812-100,Wine - Chablis 2003 Champs,Violet,XL,52
+636,68258-8905,Pie Shell - 5,Purple,XL,57
+637,62011-0225,Toamtoes 6x7 Select,Maroon,XS,16
+638,13668-102,Wine - Gewurztraminer Pierre,Yellow,S,99
+639,53808-0377,Potatoes - Idaho 80 Count,Indigo,M,89
+640,59535-1081,"Crab - Claws, 26 - 30",Turquoise,L,46
+641,41163-468,Seaweed Green Sheets,Yellow,XS,71
+642,43068-220,"Asparagus - White, Canned",Purple,M,80
+643,44911-0012,Momiji Oroshi Chili Sauce,Puce,XL,45
+644,0002-7512,"Wine - White, Riesling, Semi - Dry",Indigo,S,54
+645,53489-369,Scallops - U - 10,Khaki,3XL,72
+646,0591-3294,Wine - Cotes Du Rhone Parallele,Turquoise,3XL,9
+647,53807-521,Sugar - Individual Portions,Aquamarine,XS,92
+648,68703-047,Sauce - Chili,Puce,3XL,57
+649,49781-087,"Syrup - Monin, Irish Cream",Green,M,91
+650,69065-001,Wine - Riesling Alsace Ac 2001,Puce,XL,77
+651,0409-6695,Garlic - Peeled,Maroon,S,54
+652,14783-099,Table Cloth 54x54 Colour,Yellow,XS,44
+653,54569-0159,Mushroom - Porcini Frozen,Green,XL,37
+654,63629-2681,Tomatoes - Roma,Yellow,XS,38
+655,64117-718,"Stock - Veal, Brown",Pink,XS,97
+656,11697-199,"Tart Shells - Savory, 4",Maroon,3XL,19
+657,54569-0075,Pancetta,Orange,M,81
+658,62713-943,Energy Drink Red Bull,Violet,XL,20
+659,0603-4381,"Rum - Light, Captain Morgan",Khaki,XS,52
+660,30142-211,Chicken - Whole Fryers,Yellow,L,74
+661,68462-178,"Tea - Darjeeling, Azzura",Mauv,XS,77
+662,53507-001,"Asparagus - Green, Fresh",Fuscia,XS,47
+663,66621-1002,Mushroom Morel Fresh,Red,XL,78
+664,68084-467,Tuna - Yellowfin,Goldenrod,S,18
+665,49349-603,Wine - Jackson Triggs Okonagan,Pink,3XL,7
+666,63354-951,Peas Snow,Teal,XS,37
+667,41250-213,Cake - Lemon Chiffon,Aquamarine,L,69
+668,56062-368,Bay Leaf Ground,Blue,XL,2
+669,68196-809,Beer - Sleemans Honey Brown,Aquamarine,XL,22
+670,36987-2540,Lettuce - Boston Bib,Puce,L,42
+671,60681-0205,Cinnamon Buns Sticky,Red,XS,34
+672,63824-381,Sherry - Dry,Mauv,XS,22
+673,50436-6578,Mustard Prepared,Khaki,3XL,54
+674,10742-8308,Pineapple - Golden,Fuscia,S,65
+675,63629-1525,"Nut - Chestnuts, Whole",Green,XS,9
+676,64942-1341,Coffee Cup 16oz Foam,Maroon,XL,66
+677,0555-0954,Muffin Batt - Ban Dream Zero,Orange,M,57
+678,13537-500,Wine - Vidal Icewine Magnotta,Aquamarine,XS,88
+679,36987-2896,Goat - Leg,Purple,S,95
+680,0378-0070,Dr. Pepper - 355ml,Indigo,2XL,63
+681,68151-4210,Sole - Iqf,Blue,2XL,39
+682,49999-598,Beef Wellington,Yellow,L,70
+683,0019-9452,Lamb - Whole Head Off,Pink,XL,27
+684,42291-142,Temperature Recording Station,Yellow,L,45
+685,68745-2030,"Wine - Sherry Dry Sack, William",Blue,S,42
+686,49288-0236,Table Cloth 53x69 White,Orange,M,53
+687,64942-1114,Beef - Top Butt Aaa,Orange,L,37
+688,50346-004,Pear - Asian,Pink,M,96
+689,62034-013,Pear - Prickly,Mauv,2XL,11
+690,43406-0048,Gelatine Leaves - Envelopes,Yellow,M,53
+691,55319-321,Coffee - Flavoured,Violet,XS,66
+692,36987-3245,Juice - Cranberry 284ml,Teal,L,85
+693,55111-203,Chutney Sauce,Crimson,2XL,22
+694,0615-6588,"Brandy - Orange, Mc Guiness",Puce,2XL,27
+695,0179-0015,Kellogs Raisan Bran Bars,Green,XL,83
+696,41520-051,Sauce - Caesar Dressing,Blue,XS,32
+697,65841-657,"Bag - Bread, White, Plain",Mauv,M,88
+698,66336-408,Chickhen - Chicken Phyllo,Goldenrod,2XL,89
+699,0781-5420,Beer - Muskoka Cream Ale,Orange,L,66
+700,59779-075,"Yeast - Fresh, Fleischman",Khaki,XL,11
+701,36800-990,Beans - Butter Lrg Lima,Crimson,S,2
+702,0591-3742,Chocolate - Chips Compound,Teal,S,87
+703,65044-9992,Muffin - Mix - Mango Sour Cherry,Maroon,M,15
+704,55154-4786,"Pineapple - Canned, Rings",Green,2XL,89
+705,0113-0541,Cheese - Brick With Pepper,Orange,L,99
+706,68220-142,Praline Paste,Orange,M,7
+707,58517-040,Assorted Desserts,Aquamarine,XL,54
+708,49789-080,Island Oasis - Pina Colada,Orange,M,23
+709,54868-3724,Cheese - Cream Cheese,Red,3XL,81
+710,63629-4669,Onions - White,Purple,L,91
+711,64990-885,Fork - Plastic,Turquoise,2XL,38
+712,68462-384,Bols Melon Liqueur,Turquoise,XS,47
+713,21695-329,Longos - Cheese Tortellini,Aquamarine,M,51
+714,20276-050,Cream Of Tartar,Pink,L,84
+715,52579-1600,Pineapple - Regular,Orange,S,4
+716,0378-8030,Ice Cream Bar - Oreo Sandwich,Violet,S,9
+717,49035-863,Ecolab Digiclean Mild Fm,Purple,XL,28
+718,67510-0521,Pomello,Red,S,84
+719,49288-0096,"Bread - Dark Rye, Loaf",Purple,XL,14
+720,49349-796,Eggs - Extra Large,Yellow,XL,26
+721,54868-5215,Pecan Raisin - Tarts,Puce,2XL,54
+722,0363-0065,Turnip - White,Yellow,2XL,8
+723,36800-567,"Bread - White, Sliced",Crimson,L,98
+724,45802-061,Russian Prince,Teal,M,4
+725,55648-783,"Mushroom - Chanterelle, Dry",Blue,S,78
+726,36800-426,Creme De Menth - White,Khaki,XL,2
+727,54868-1192,"Mushroom - Shitake, Fresh",Indigo,XL,89
+728,64543-112,"Water - Mineral, Natural",Mauv,M,1
+729,76378-015,"Beef - Ox Tail, Frozen",Puce,XS,98
+730,58593-800,Cucumber - Pickling Ontario,Puce,M,88
+731,50845-0109,Chocolate - Milk,Teal,3XL,95
+732,49643-437,Sprouts - Corn,Turquoise,XS,12
+733,49288-0390,"Chocolate - Pistoles, Lactee, Milk",Khaki,M,11
+734,23155-048,Pepper Squash,Indigo,2XL,51
+735,68828-152,Roe - Flying Fish,Blue,XS,71
+736,60512-1016,Veal Inside - Provimi,Mauv,XL,67
+737,43742-0242,Trueblue - Blueberry,Purple,2XL,92
+738,0591-0801,V8 - Tropical Blend,Green,2XL,65
+739,0904-6246,Muffins - Assorted,Red,M,54
+740,67296-0122,Juice - Lemon,Violet,M,94
+741,50436-3028,Cloves - Ground,Orange,M,47
+742,10157-9835,Hummus - Spread,Fuscia,XL,69
+743,16571-441,Ham - Proscuitto,Mauv,2XL,56
+744,60432-528,"Crab - Dungeness, Whole, live",Aquamarine,XS,93
+745,43063-505,"Tomatoes - Vine Ripe, Yellow",Goldenrod,L,28
+746,42291-382,"Vermacelli - Sprinkles, Assorted",Blue,XS,15
+747,53346-1323,"Lemonade - Mandarin, 591 Ml",Mauv,XS,71
+748,49288-0569,Chip - Potato Dill Pickle,Mauv,XL,59
+749,54868-5859,Hog / Sausage Casing - Pork,Khaki,M,20
+750,0071-0157,"Soup - Campbells, Spinach Crm",Blue,2XL,96
+751,63459-412,Amarula Cream,Indigo,L,89
+752,48951-9004,"Tortillas - Flour, 10",Teal,XL,70
+753,55714-1513,Pur Source,Red,XS,8
+754,43419-601,Corn Kernels - Frozen,Puce,3XL,53
+755,37808-171,Wine - Mondavi Coastal Private,Pink,L,80
+756,64117-132,Clams - Bay,Teal,XS,71
+757,10736-011,Calypso - Lemonade,Blue,L,74
+758,66521-113,Rice Paper,Mauv,XL,28
+759,34666-050,Snapple - Mango Maddness,Puce,M,10
+760,53185-005,Wine - Placido Pinot Grigo,Maroon,3XL,40
+761,54868-2929,Arizona - Green Tea,Purple,2XL,43
+762,69106-190,Eggwhite Frozen,Orange,S,93
+763,30142-818,Nantucket - Pomegranate Pear,Crimson,XL,72
+764,52685-316,Nantucket - 518ml,Blue,XS,55
+765,54575-969,Sauce - Hp,Orange,M,91
+766,51655-290,"Pasta - Lasagne, Fresh",Teal,M,41
+767,32909-804,Appetizer - Smoked Salmon / Dill,Maroon,L,23
+768,37000-600,Wine - Zinfandel Rosenblum,Fuscia,S,47
+769,13668-088,Godiva White Chocolate,Pink,XL,77
+770,10544-252,Remy Red Berry Infusion,Turquoise,S,44
+771,36987-1893,Cinnamon Buns Sticky,Turquoise,S,26
+772,54868-5482,Vinegar - Rice,Fuscia,XS,37
+773,33992-0373,Soup Knorr Chili With Beans,Fuscia,M,15
+774,0069-0807,"Bread - Roll, Soft White Round",Maroon,XL,23
+775,0456-0462,Sprouts - Alfalfa,Yellow,XL,68
+776,58668-6160,"Cheese - Mozzarella, Shredded",Khaki,L,76
+777,63354-781,"Capon - Breast, Double, Wing On",Mauv,L,54
+778,24385-004,Jerusalem Artichoke,Puce,XL,87
+779,10122-314,Calypso - Strawberry Lemonade,Orange,L,79
+780,10014-006,Pie Filling - Pumpkin,Purple,L,45
+781,67296-0016,"Lemonade - Black Cherry, 591 Ml",Indigo,L,58
+782,50436-4653,Bread - White Epi Baguette,Crimson,XL,50
+783,54973-2911,Wine - Chardonnay Mondavi,Green,3XL,19
+784,57520-0170,Soup - Campbells Chicken,Puce,M,24
+785,54473-142,Crab - Meat Combo,Crimson,XL,11
+786,36987-2827,"Appetizer - Mini Egg Roll, Shrimp",Yellow,M,56
+787,51079-598,Chicken - Whole,Orange,M,65
+788,51730-0002,"Pasta - Fettuccine, Egg, Fresh",Turquoise,XL,92
+789,63843-520,Catfish - Fillets,Crimson,S,4
+790,60505-2876,Shortbread - Cookie Crumbs,Puce,2XL,44
+791,50988-197,Garbag Bags - Black,Goldenrod,M,63
+792,51954-100,"Mushroom - Shitake, Fresh",Puce,M,93
+793,60505-3528,"Pasta - Shells, Medium, Dry",Crimson,3XL,57
+794,54868-2093,Pastry - Cherry Danish - Mini,Turquoise,XS,63
+795,50051-0023,Dasheen,Teal,M,32
+796,61715-062,Cabbage - Red,Red,2XL,52
+797,31357-040,Hersey Shakes,Blue,M,33
+798,68599-2303,Wine - Dubouef Macon - Villages,Indigo,S,99
+799,54575-923,"Soup - Knorr, Classic Can. Chili",Pink,M,86
+800,67777-240,Peppercorns - Pink,Aquamarine,M,46
+801,0378-3633,Soup - Campbells Mac N Cheese,Goldenrod,XS,56
+802,72036-370,Glycerine,Orange,XS,87
+803,0615-7646,"Beef - Ox Tongue, Pickled",Red,XS,87
+804,41163-551,Couscous,Purple,2XL,8
+805,21695-439,Plasticforkblack,Fuscia,3XL,88
+806,67751-058,Spice - Pepper Portions,Green,XS,76
+807,10096-0209,Cake - Lemon Chiffon,Goldenrod,M,21
+808,11523-7372,Eel - Smoked,Mauv,M,78
+809,13734-124,Oil - Sunflower,Aquamarine,XS,22
+810,50436-3915,Soupfoamcont12oz 112con,Crimson,M,8
+811,57520-0297,Cheese - Bakers Cream Cheese,Yellow,S,17
+812,54868-6366,Cake - Lemon Chiffon,Fuscia,3XL,7
+813,53808-0984,Pork - Backfat,Puce,3XL,29
+814,68084-756,"Wine - White, Gewurtzraminer",Blue,XL,54
+815,66761-315,Ezy Change Mophandle,Violet,XL,65
+816,64679-422,Melon - Cantaloupe,Teal,S,4
+817,43478-241,Marzipan 50/50,Aquamarine,S,51
+818,0115-1121,"Soup - Campbells, Spinach Crm",Crimson,S,65
+819,10544-186,Beef - Short Loin,Maroon,2XL,35
+820,30142-149,Energy Drink - Redbull 355ml,Blue,3XL,10
+821,0555-9025,Pasta - Canelloni,Red,S,24
+822,36987-2658,Sponge Cake Mix - Vanilla,Orange,3XL,10
+823,10191-1844,Wine - Prem Select Charddonany,Khaki,L,1
+824,64117-134,Steampan - Lid For Half Size,Red,XL,20
+825,10237-644,"Pepper - Green, Chili",Teal,S,64
+826,63851-612,Cream - 35%,Green,2XL,81
+827,55316-050,"Liners - Banana, Paper",Mauv,L,1
+828,36987-2918,Pepper Squash,Turquoise,3XL,16
+829,36987-1888,"Quail - Eggs, Fresh",Orange,XS,98
+830,54868-5607,Lettuce - Red Leaf,Goldenrod,XL,100
+831,59148-021,Beef - Tenderloin - Aa,Blue,XL,43
+832,36800-546,Versatainer Nc - 8288,Mauv,3XL,91
+833,54575-379,Star Fruit,Red,M,57
+834,61957-1201,Puree - Blackcurrant,Orange,L,52
+835,11822-0529,Kaffir Lime Leaves,Goldenrod,L,68
+836,65862-208,Flower - Potmums,Goldenrod,XS,69
+837,24987-260,Bok Choy - Baby,Red,XL,82
+838,10578-008,Olives - Nicoise,Orange,3XL,82
+839,10096-0314,Tea - Black Currant,Purple,S,27
+840,49738-990,Milk - Chocolate 250 Ml,Goldenrod,XS,63
+841,51991-650,Cheese - Parmesan Cubes,Mauv,3XL,73
+842,0268-1601,Flour Pastry Super Fine,Green,S,51
+843,10337-062,Pomegranates,Yellow,M,38
+844,52410-9005,Jello - Assorted,Indigo,XS,3
+845,65841-655,Caviar - Salmon,Red,2XL,48
+846,11523-7288,"Apple - Delicious, Golden",Orange,M,65
+847,60429-153,Garbag Bags - Black,Turquoise,L,60
+848,68788-9385,Ecolab - Mikroklene 4/4 L,Mauv,L,63
+849,55154-4747,Yokaline,Pink,XS,38
+850,48951-1175,"Vinegar - Balsamic, White",Pink,M,84
+851,69031-003,Mix - Cocktail Strawberry Daiquiri,Crimson,3XL,16
+852,50268-620,Ham - Proscuitto,Violet,S,3
+853,66007-212,Goulash Seasoning,Pink,S,39
+854,55714-4607,Cucumber - English,Orange,2XL,48
+855,11344-297,Tea - Herbal Sweet Dreams,Turquoise,L,7
+856,59078-030,Cloves - Whole,Mauv,3XL,11
+857,55316-359,Carbonated Water - White Grape,Yellow,L,55
+858,52125-097,Grand Marnier,Khaki,3XL,37
+859,68196-803,Rice - Jasmine Sented,Purple,M,44
+860,65044-1664,Soup Campbells - Tomato Bisque,Crimson,S,88
+861,36987-2129,Milk - 1%,Indigo,XS,48
+862,59535-7301,Ezy Change Mophandle,Crimson,XL,49
+863,53360-4142,Pears - Bartlett,Yellow,2XL,38
+864,55154-4765,Beer - Guiness,Crimson,XS,50
+865,0904-7822,"Lemonade - Kiwi, 591 Ml",Teal,L,19
+866,64525-5382,Brandy Apricot,Khaki,XL,69
+867,17156-618,Wine - Lou Black Shiraz,Mauv,L,68
+868,64679-630,Soupfoamcont12oz 112con,Goldenrod,M,67
+869,60505-0260,Grand Marnier,Red,2XL,82
+870,49643-338,"Coke - Diet, 355 Ml",Aquamarine,3XL,68
+871,76214-028,Instant Coffee,Pink,2XL,88
+872,51702-114,Cheese - Camembert,Khaki,S,22
+873,37000-003,Bread - Pumpernickel,Orange,XL,19
+874,63941-397,Lamb - Shanks,Goldenrod,3XL,98
+875,42254-144,Anisette - Mcguiness,Aquamarine,XL,78
+876,55714-1716,Salt And Pepper Mix - White,Pink,XL,7
+877,68462-224,Bar Mix - Lime,Fuscia,2XL,9
+878,11673-352,Bar Bran Honey Nut,Green,M,67
+879,55910-616,Lid Coffeecup 12oz D9542b,Khaki,L,27
+880,50167-7100,Lighter - Bbq,Indigo,2XL,2
+881,55910-527,Sauce - Hoisin,Purple,L,91
+882,0056-0172,Lettuce Romaine Chopped,Yellow,2XL,15
+883,0496-0750,Bay Leaf,Orange,S,5
+884,62670-3715,"Tendrils - Baby Pea, Organic",Khaki,M,86
+885,0026-3785,Mace,Orange,XS,51
+886,58411-129,Sponge Cake Mix - Vanilla,Indigo,XS,1
+887,37808-902,"7up Diet, 355 Ml",Fuscia,S,85
+888,43353-756,Cups 10oz Trans,Blue,2XL,16
+889,49999-334,Carbonated Water - Orange,Green,2XL,42
+890,51531-2326,Cheese - St. Andre,Khaki,2XL,73
+891,54868-5499,"Pail - 15l White, With Handle",Mauv,S,91
+892,52125-245,Sambuca - Opal Nera,Fuscia,S,48
+893,51808-201,Coffee Cup 8oz 5338cd,Puce,XS,97
+894,49348-689,Muffin - Blueberry Individual,Violet,XL,93
+895,60681-1277,Muffin Mix - Blueberry,Turquoise,3XL,37
+896,62382-0308,Foam Tray S2,Teal,S,55
+897,49349-024,Tofu - Soft,Teal,3XL,55
+898,41442-143,Egg - Salad Premix,Green,M,63
+899,59779-759,Curry Powder Madras,Maroon,3XL,14
+900,50563-185,"Nestea - Ice Tea, Diet",Violet,XS,93
+901,49288-0482,Dr. Pepper - 355ml,Khaki,S,82
+902,0135-0561,Smirnoff Green Apple Twist,Khaki,M,22
+903,50021-241,Spice - Montreal Steak Spice,Indigo,XS,87
+904,57520-1030,Veal - Bones,Aquamarine,2XL,4
+905,49288-0594,"Beans - Turtle, Black, Dry",Aquamarine,3XL,17
+906,65517-1017,Wine - Spumante Bambino White,Teal,S,69
+907,35356-954,Dried Cranberries,Violet,3XL,10
+908,54868-6038,Water - Spring 1.5lit,Violet,3XL,70
+909,0703-4767,Sauce - Thousand Island,Maroon,S,10
+910,55154-5455,Berry Brulee,Goldenrod,2XL,97
+911,48951-9049,Wine - Prosecco Valdobienne,Purple,3XL,6
+912,10742-2526,Southern Comfort,Green,2XL,32
+913,52584-093,"Radish - Black, Winter, Organic",Violet,3XL,70
+914,33261-740,Creme De Banane - Marie,Turquoise,XS,66
+915,59886-413,Flour - Teff,Pink,S,27
+916,51672-1315,Worcestershire Sauce,Yellow,XS,98
+917,55111-546,Clementine,Teal,L,93
+918,68479-360,Wine - Shiraz South Eastern,Maroon,2XL,18
+919,67544-026,Mustard - Seed,Teal,M,67
+920,55289-800,Beer - Creemore,Yellow,M,74
+921,17478-719,Coffee - Irish Cream,Fuscia,2XL,100
+922,43547-248,Vodka - Moskovskaya,Goldenrod,3XL,4
+923,52125-007,Beer - Muskoka Cream Ale,Fuscia,M,40
+924,42423-271,Shiro Miso,Indigo,2XL,69
+925,62007-025,Icecream - Dstk Cml And Fdg,Indigo,XS,82
+926,43406-0095,Vinegar - Champagne,Turquoise,3XL,99
+927,49967-295,Sausage - Meat,Red,M,92
+928,54473-244,Ice Cream Bar - Hagen Daz,Pink,2XL,15
+929,0378-5209,"Asparagus - White, Fresh",Teal,3XL,1
+930,68647-169,Pear - Asian,Turquoise,S,62
+931,41250-111,"Pasta - Rotini, Colour, Dry",Blue,XL,26
+932,0145-2130,Red Pepper Paste,Puce,XS,60
+933,68428-043,Pork - Side Ribs,Indigo,S,13
+934,61919-027,"Loaf Pan - 2 Lb, Foil",Red,S,59
+935,52544-204,Country Roll,Green,S,37
+936,43538-177,Food Colouring - Red,Mauv,S,1
+937,65841-022,Beef Dry Aged Tenderloin Aaa,Puce,XS,34
+938,67386-820,Nori Sea Weed - Gold Label,Purple,S,71
+939,52124-0012,Tea - Honey Green Tea,Crimson,2XL,2
+940,0406-0523,Evaporated Milk - Skim,Violet,2XL,45
+941,0085-1374,Beef - Texas Style Burger,Fuscia,L,32
+942,58394-635,Tequila Rose Cream Liquor,Green,L,30
+943,57337-059,Sprouts - Pea,Fuscia,L,24
+944,0904-5940,Thyme - Dried,Maroon,L,39
+945,52125-378,Eggplant - Regular,Crimson,3XL,99
+946,63323-208,Icecream - Dstk Super Cone,Fuscia,3XL,2
+947,61722-088,Island Oasis - Mango Daiquiri,Maroon,XS,4
+948,0603-3744,Apple - Northern Spy,Indigo,S,24
+949,54288-103,Broom Handle,Khaki,2XL,11
+950,51079-598,Butter - Pod,Crimson,S,67
+951,76214-040,Lemon Balm - Fresh,Purple,S,83
+952,54868-4055,Mustard - Pommery,Turquoise,XL,39
+953,45802-315,Beef - Ox Tongue,Fuscia,L,74
+954,63736-318,Cheese - Brie,Fuscia,3XL,56
+955,58414-3042,"Lid - Translucent, 3.5 And 6 Oz",Indigo,M,15
+956,68180-517,Pork - Bones,Crimson,S,49
+957,68400-115,Beans - French,Turquoise,2XL,59
+958,64778-0498,Neckerchief Blck,Purple,S,99
+959,52125-036,Breadfruit,Turquoise,L,84
+960,49430-046,Swordfish Loin Portions,Yellow,S,7
+961,61139-421,Salt And Pepper Mix - Black,Puce,2XL,78
+962,68788-9555,Clam Nectar,Orange,3XL,26
+963,52125-811,Tea - Jasmin Green,Crimson,L,2
+964,60258-150,Wine - Tribal Sauvignon,Aquamarine,XL,17
+965,0067-6347,Steampan - Half Size Shallow,Purple,S,51
+966,45963-125,Chocolate Bar - Oh Henry,Violet,3XL,86
+967,0085-1461,Coffee Cup 12oz 5342cd,Aquamarine,2XL,56
+968,43063-465,"Wine - Red, Black Opal Shiraz",Mauv,XS,2
+969,55714-2234,Cake - Night And Day Choclate,Aquamarine,S,4
+970,0113-0825,"Rum - Cream, Amarula",Fuscia,L,9
+971,36987-2324,"Pork - Tenderloin, Frozen",Mauv,3XL,83
+972,49738-321,Tomato - Green,Blue,XS,90
+973,52544-847,Canada Dry,Blue,2XL,47
+974,60429-189,Beef - Inside Round,Violet,XS,71
+975,12634-118,Wine - Valpolicella Masi,Pink,XS,21
+976,0143-3190,Cheese - Sheep Milk,Green,M,5
+977,0078-0503,Irish Cream - Baileys,Maroon,3XL,74
+978,0409-7808,Shrimp - Black Tiger 8 - 12,Pink,L,56
+979,62742-4028,Sugar Thermometer,Khaki,L,32
+980,67457-382,Dc Hikiage Hira Huba,Puce,XL,63
+981,0310-0271,Wine - Baron De Rothschild,Yellow,2XL,3
+982,45802-170,Raisin - Dark,Yellow,M,54
+983,54118-7976,Dikon,Purple,3XL,97
+984,68084-783,Pork Loin Cutlets,Blue,M,26
+985,60589-004,"Beef - Rib Roast, Capless",Purple,2XL,6
+986,60505-3807,"Juice - Grapefruit, 341 Ml",Orange,L,85
+987,60977-016,Cake - Mini Cheesecake,Goldenrod,M,11
+988,13733-005,"Wine - Red, Colio Cabernet",Yellow,S,100
+989,10812-370,Shark - Loin,Green,L,49
+990,50804-302,Truffle - Whole Black Peeled,Pink,XS,13
+991,46123-006,Fudge - Cream Fudge,Purple,3XL,40
+992,67510-0063,Appetizer - Smoked Salmon / Dill,Puce,XS,27
+993,33261-758,"Mushroom - Trumpet, Dry",Puce,XL,26
+994,12488-1100,Wine - Prem Select Charddonany,Pink,S,32
+995,11118-1106,Beef Tenderloin Aaa,Green,3XL,26
+996,49852-006,Sauce - Marinara,Blue,S,68
+997,50730-8304,"Veal - Tenderloin, Untrimmed",Puce,2XL,15
+998,57520-0333,Wasabi Paste,Maroon,M,1
+999,17089-418,Raisin - Dark,Red,L,56
+1000,25237-0516,"Bread - Roll, Calabrese",Goldenrod,3XL,33
